@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: ec90f62b052d7374584652f2b07763ad
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameCoin-PurpleCoin-B_0
+    21300002: GameCoin-PurpleCoin-B_1
+    21300004: GameCoin-PurpleCoin-B_2
+    21300006: GameCoin-PurpleCoin-B_3
+    21300008: GameCoin-PurpleCoin-B_4
+    21300010: GameCoin-PurpleCoin-B_5
+    21300012: GameCoin-PurpleCoin-B_6
+    21300014: GameCoin-PurpleCoin-B_7
+    21300016: GameCoin-PurpleCoin-B_8
+    21300018: GameCoin-PurpleCoin-B_9
+    21300020: GameCoin-PurpleCoin-B_10
+    21300022: GameCoin-PurpleCoin-B_11
+    21300024: GameCoin-PurpleCoin-B_12
+    21300026: GameCoin-PurpleCoin-B_13
+    21300028: GameCoin-PurpleCoin-B_14
+    21300030: GameCoin-PurpleCoin-B_15
+    21300032: GameCoin-PurpleCoin-B_16
+    21300034: GameCoin-PurpleCoin-B_17
+    21300036: GameCoin-PurpleCoin-B_18
+    21300038: GameCoin-PurpleCoin-B_19
+    21300040: GameCoin-PurpleCoin-B_20
+    21300042: GameCoin-PurpleCoin-B_21
+    21300044: GameCoin-PurpleCoin-B_22
+    21300046: GameCoin-PurpleCoin-B_23
+    21300048: GameCoin-PurpleCoin-B_24
+    21300050: GameCoin-PurpleCoin-B_25
+    21300052: GameCoin-PurpleCoin-B_26
+    21300054: GameCoin-PurpleCoin-B_27
+    21300056: GameCoin-PurpleCoin-B_28
+    21300058: GameCoin-PurpleCoin-B_29
+    21300060: GameCoin-PurpleCoin-B_30
+    21300062: GameCoin-PurpleCoin-B_31
+    21300064: GameCoin-PurpleCoin-B_32
+    21300066: GameCoin-PurpleCoin-B_33
+    21300068: GameCoin-PurpleCoin-B_34
+    21300070: GameCoin-PurpleCoin-B_35
+    21300072: GameCoin-PurpleCoin-B_36
+    21300074: GameCoin-PurpleCoin-B_37
+    21300076: GameCoin-PurpleCoin-B_38
+    21300078: GameCoin-PurpleCoin-B_39
+    21300080: GameCoin-PurpleCoin-B_40
+    21300082: GameCoin-PurpleCoin-B_41
+    21300084: GameCoin-PurpleCoin-B_42
+    21300086: GameCoin-PurpleCoin-B_43
+    21300088: GameCoin-PurpleCoin-B_44
+    21300090: GameCoin-PurpleCoin-B_45
+    21300092: GameCoin-PurpleCoin-B_46
+    21300094: GameCoin-PurpleCoin-B_47
+    21300096: GameCoin-PurpleCoin-B_48
+    21300098: GameCoin-PurpleCoin-B_49
+    21300100: GameCoin-PurpleCoin-B_50
+    21300102: GameCoin-PurpleCoin-B_51
+    21300104: GameCoin-PurpleCoin-B_52
+    21300106: GameCoin-PurpleCoin-B_53
+    21300108: GameCoin-PurpleCoin-B_54
+    21300110: GameCoin-PurpleCoin-B_55
+    21300112: GameCoin-PurpleCoin-B_56
+    21300114: GameCoin-PurpleCoin-B_57
+    21300116: GameCoin-PurpleCoin-B_58
+    21300118: GameCoin-PurpleCoin-B_59
+    21300120: GameCoin-PurpleCoin-B_60
+    21300122: GameCoin-PurpleCoin-B_61
+    21300124: GameCoin-PurpleCoin-B_62
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3744
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b58c6277218d34db44563ce0c32726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3744
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2254b4cb586747bd163ac74865ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_2
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3744
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee085dbe1fc384d95bc86a932f8e99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_3
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3744
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82652ba40dc9664a98f0026d81074cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_4
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3744
+        width: 445
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891394ac96642649abad37d2ca0d1b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_5
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 3744
+        width: 446
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48de84e4658d984fb52b8960146ff1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_6
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3744
+        width: 447
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e6becc791a3a4da6f27075708c93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_7
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3744
+        width: 444
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b9ab29108a40e4fb851a51da1ed70b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3213
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0431f1f1e63b54b9894fcc8f813dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3213
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c8bb10bee0764d8c741dabfc887ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_10
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 3213
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d05334916ac564e9e63ce155596a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_11
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3213
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054061481f62b6e4e85f0ac449fa822b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_12
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 3213
+        width: 445
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6589b201242c0b6459fcd82ae72adfb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_13
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3213
+        width: 445
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b72b08ba0b1d849ba8e6f34cdf41cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_14
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3213
+        width: 447
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e8a4108fc612441bb395523959ecfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_15
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 3213
+        width: 444
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189271f9567ca2e42bfeb35eed86ce44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d470914da0248a4781ac82862dd9b0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_17
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e15fad31220c47912d655377dc25a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_18
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ca72b1774e9cb41b48c55e274f2199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_19
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4063ef485f28e55479ebb4baf79c4077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_20
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2680
+        width: 445
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65850ee085be88e4baaf27bc0e94626f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_21
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0452bcaa33ee44b3f6749b32bb410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_22
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2680
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b626381d6b259964a9f8ce63e08f4ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_23
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2680
+        width: 444
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f7208a729ffe640b42befad18f517b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2144
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7291be0bdda6d94ab404d73465b3f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2144
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c39aea461f4e584f80f672eccc02fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_26
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2144
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cf392a7ebb334f88270a5bfffe141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_27
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 2144
+        width: 449
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b123a16ea2d42540b811078620abef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_28
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2144
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6117190e90f74ca469ed354c6a283f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_29
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 2144
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4f34c35f38314c9b2bc0a2a43ee26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_30
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2144
+        width: 449
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fcdb41aa8b5dd4f8211089cd0817a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_31
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 2146
+        width: 444
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17003f82e3724df41a0b48be7b48d2fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1611
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18b81ed8f8c444b8f5145493c5896d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_33
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1611
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a1987e9d36704ca33f94518594292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1611
+        width: 449
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a091d2381562f43bc9c75f45936e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_35
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1611
+        width: 445
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5da17f0d5782459db40dac899727a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_36
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1611
+        width: 449
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f681302cd3d5a4c840868c4a751dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_37
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1611
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef91f7987a96644691899dda060b611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_38
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1611
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e73db7dc923244882de9b2db6f3980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_39
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1613
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f440ffd726613f040b24e93c51292309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1094
+        width: 449
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b119abd9153dc4d8ddc3f0d3b5d03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_41
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1094
+        width: 448
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0745a38826404b9b67c9d833ecc4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_42
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1068
+        width: 476
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8557ebd275e6442a981ea2b7cc8774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_43
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1068
+        width: 475
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca64659f14f0a5409fc5c0f710ae6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_44
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1068
+        width: 475
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d842243cdddb07428c17d4cd24f66ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_45
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 1068
+        width: 476
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485c89d7a865cc49a21d843b6d998ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_46
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1068
+        width: 476
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe46f95f89147419bf9d4eaf8c32f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_47
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 1068
+        width: 473
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc0fbd46aaf7f42af780a67bbe49fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 473
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f30a1e7c312b4492b77ecfbaaf06d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_49
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 534
+        width: 476
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84aabd5d71fb841860d3fd91ef2813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_50
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 534
+        width: 476
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731646af7407c98458eb9a62a7e35fd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_51
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 534
+        width: 475
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31801b8ae504940b7eef2ca4e10fa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_52
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 534
+        width: 475
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83dce8d46ddeeb47b1474d1db3532a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_53
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 534
+        width: 476
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c855922da0094da2f00978ecd1074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_54
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 534
+        width: 476
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc29c3df5ea35444a29a7eaeb2f134a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_55
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 534
+        width: 473
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e6a93505a0e846ada5494e788d9da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 473
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ac213db9dec6418aa1b9ae42b8a65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 476
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e799fe40960e647a3e02b6da239b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_58
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 0
+        width: 476
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637156b6fdd7644a84e7f25683643ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_59
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 474
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eccbf80a957de48968c77dee8b770b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_60
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 475
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886248933a2a6f4da378647a18d353e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_61
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 0
+        width: 475
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66842ae33cf8a14bbb7c8b22ec54b7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-PurpleCoin-B_62
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 0
+        width: 476
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6738b51748af34a85658df68e77fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

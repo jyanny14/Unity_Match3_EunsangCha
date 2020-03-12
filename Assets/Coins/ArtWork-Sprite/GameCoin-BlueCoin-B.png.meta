@@ -1,0 +1,1423 @@
+fileFormatVersion: 2
+guid: 954e7fb58ae745147bc0ca46e2f9652f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameCoin-BlueCoin-B_0
+    21300002: GameCoin-BlueCoin-B_1
+    21300004: GameCoin-BlueCoin-B_2
+    21300006: GameCoin-BlueCoin-B_3
+    21300008: GameCoin-BlueCoin-B_4
+    21300010: GameCoin-BlueCoin-B_5
+    21300012: GameCoin-BlueCoin-B_6
+    21300014: GameCoin-BlueCoin-B_7
+    21300016: GameCoin-BlueCoin-B_8
+    21300018: GameCoin-BlueCoin-B_9
+    21300020: GameCoin-BlueCoin-B_10
+    21300022: GameCoin-BlueCoin-B_11
+    21300024: GameCoin-BlueCoin-B_12
+    21300026: GameCoin-BlueCoin-B_13
+    21300028: GameCoin-BlueCoin-B_14
+    21300030: GameCoin-BlueCoin-B_15
+    21300032: GameCoin-BlueCoin-B_16
+    21300034: GameCoin-BlueCoin-B_17
+    21300036: GameCoin-BlueCoin-B_18
+    21300038: GameCoin-BlueCoin-B_19
+    21300040: GameCoin-BlueCoin-B_20
+    21300042: GameCoin-BlueCoin-B_21
+    21300044: GameCoin-BlueCoin-B_22
+    21300046: GameCoin-BlueCoin-B_23
+    21300048: GameCoin-BlueCoin-B_24
+    21300050: GameCoin-BlueCoin-B_25
+    21300052: GameCoin-BlueCoin-B_26
+    21300054: GameCoin-BlueCoin-B_27
+    21300056: GameCoin-BlueCoin-B_28
+    21300058: GameCoin-BlueCoin-B_29
+    21300060: GameCoin-BlueCoin-B_30
+    21300062: GameCoin-BlueCoin-B_31
+    21300064: GameCoin-BlueCoin-B_32
+    21300066: GameCoin-BlueCoin-B_33
+    21300068: GameCoin-BlueCoin-B_34
+    21300070: GameCoin-BlueCoin-B_35
+    21300072: GameCoin-BlueCoin-B_36
+    21300074: GameCoin-BlueCoin-B_37
+    21300076: GameCoin-BlueCoin-B_38
+    21300078: GameCoin-BlueCoin-B_39
+    21300080: GameCoin-BlueCoin-B_40
+    21300082: GameCoin-BlueCoin-B_41
+    21300084: GameCoin-BlueCoin-B_42
+    21300086: GameCoin-BlueCoin-B_43
+    21300088: GameCoin-BlueCoin-B_44
+    21300090: GameCoin-BlueCoin-B_45
+    21300092: GameCoin-BlueCoin-B_46
+    21300094: GameCoin-BlueCoin-B_47
+    21300096: GameCoin-BlueCoin-B_48
+    21300098: GameCoin-BlueCoin-B_49
+    21300100: GameCoin-BlueCoin-B_50
+    21300102: GameCoin-BlueCoin-B_51
+    21300104: GameCoin-BlueCoin-B_52
+    21300106: GameCoin-BlueCoin-B_53
+    21300108: GameCoin-BlueCoin-B_54
+    21300110: GameCoin-BlueCoin-B_55
+    21300112: GameCoin-BlueCoin-B_56
+    21300114: GameCoin-BlueCoin-B_57
+    21300116: GameCoin-BlueCoin-B_58
+    21300118: GameCoin-BlueCoin-B_59
+    21300120: GameCoin-BlueCoin-B_60
+    21300122: GameCoin-BlueCoin-B_61
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4472f3eaef7eeeb42a2a62c57bf29777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3750
+        width: 446
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01263a702a84946925245d045e5cb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_2
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3750
+        width: 447
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7925161986162d4c94d038fdba3678e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_3
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 3750
+        width: 446
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326d084b566a7d408d4578ff00fb632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_4
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 3750
+        width: 446
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f186e009f3a0a848924a89ba9fa9369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_5
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 3750
+        width: 446
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e964de633ece3b14e8b8d732b36c5c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_6
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 3750
+        width: 447
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bb92581f59bb648818076bf0536aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_7
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 3750
+        width: 443
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26076bea0104e364d902265d5cf9fba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3228
+        width: 443
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46fb9ec784a5dd4f94f9625c321c7c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3228
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba12f922ed5fee4c9c778c324e7e3bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3228
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d26445b14244140af7bcc27800a63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_11
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 3228
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453cc78b7c8cc2f48a21ecc5a6e658f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_12
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 3228
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ef7c266ff5cc4499c80867c81c4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_13
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 3213
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505d296062eedc045940d658b811a977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_14
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 3228
+        width: 447
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c22893250b98014a9b1e0817455b437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_15
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 3228
+        width: 443
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aecc86f7650bf488378b5d91cf0911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650
+        width: 443
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944afe0d8d336c940962083820fe323a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2650
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8f5796b3c4c54eb35e29b8e1a7997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2650
+        width: 447
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e1735fbfd52be4b8c98448bf199b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_19
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2650
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e03cbc86c19f741bb005310f9ff7b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_20
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2650
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7002f238a33c4d4f85a8e3a342de6e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_21
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2677
+        width: 446
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab37d2a53050294686a9c7711a26a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_22
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2650
+        width: 446
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94d25b6a1cedc4f9e93b07c42fa40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_23
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2650
+        width: 443
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fc5fe6eda665d46a421f5964481e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2126
+        width: 443
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a3217c49994c488b3181772034c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2126
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714d58141ad73b4da1a69dcd0d71013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_26
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 2126
+        width: 447
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef69a515fce7564098a0e6c411ece6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_27
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2126
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc6dbb02528f84caa55d43cb29d313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_28
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 2126
+        width: 446
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fbd5aeb25a2b940a5172266a4302be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_29
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2141
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e159641818e646b5c6bb0b66c9568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_30
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2126
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd3bf752d347143a7482527737990a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_31
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2126
+        width: 443
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299da76fe2a6dc24f8b8652129d3c2b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1586
+        width: 445
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cae0b397eccb343a10353d6a03dda6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1586
+        width: 448
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4818fea4423107f42b73b72d5e81b4af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_34
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1586
+        width: 446
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6e09a1738858489828a8fe756cb74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1586
+        width: 450
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e223af0783e32e41bf8e79e513ce409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_36
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1586
+        width: 448
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f3be12adf8f69428c0f305a9609839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_37
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1606
+        width: 446
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e408965666416468a36b614c1db994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_38
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 1586
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720620c6668d8c42b232ab7938a9a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_39
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 1586
+        width: 445
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f8a9425d4834a4a821cd465d67553a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 445
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf8b8a5bb90894cb5bedf0734f5d83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_41
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1047
+        width: 475
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f00fc1a09158624296f9026368e8ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_42
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1047
+        width: 475
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d5f9ede98d52643b0d46d72d540371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_43
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1047
+        width: 477
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d537d9478b592814bb5116e01f83166d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_44
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1047
+        width: 474
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa737164c564a4b854b946b2fcd9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_45
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1055
+        width: 475
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f7f8af5a05d748ad4b8246c0d5888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_46
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1047
+        width: 477
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01436686553654f915e52cc148bd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_47
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1047
+        width: 472
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68873b24ebc22ca48b3cfb340831b243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 472
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ebd075e3d8804baac74ff61c37872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_49
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 505
+        width: 477
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35c45c89d484040aaa36606eb0d262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_50
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 505
+        width: 475
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c21b11ebf8af7347ab9810d69cfc320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_51
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 505
+        width: 477
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83183f9ec05951c44817e51e5e8a5740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_52
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 505
+        width: 477
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052fadffffc2e894598e9cb3361711a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_53
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 519
+        width: 475
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6882ddd7f0da44db38bbeae05de06e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_54
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 505
+        width: 477
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614702ad33d3c741a94768da6b59e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_55
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 505
+        width: 472
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb767312066b741af671d23e136527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 472
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f5bce1c6af8784eaa38b92fe39efba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 475
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61654cb8337de4147b22203cbc9bfea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_58
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 0
+        width: 475
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19abbc3f700c6d4ea87540718cab989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_59
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 476
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a963376952fd4986015b84352b88b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_60
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 476
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95635c1ffb4583049a7c7e7a5d57ba05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCoin-BlueCoin-B_61
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 0
+        width: 475
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c65681534a0944ae657080cad6b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
