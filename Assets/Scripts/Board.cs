@@ -1,64 +1,124 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using DG.Tweening;
 
 public class Board : MonoBehaviour
 {
-    //private Tile_Script[,] m_TilesArray = new Tile_Script[6, 6];
+    //private const float SIZE_X = 0.96f;
+    //private const float SIZE_Y = -0.64f;
+    //private const float ZERO_X = -2.88f;
+    //private const float ZERO_Y = 4.48f;
 
-    private Dictionary<string, Tile_Script> m_TilesDictionary = new Dictionary<string, Tile_Script>();
-    private GameObject m_TilePrefab;
+    [Serializable]
+    public class toys
+    {
+        public int x_;
+        public int y_;
+        public GameObject type_;
+        private Tile_Script tile_;
 
-    public int m_Width = 16;
-    public int m_Height = 16;
+        public toys() { }
+        public toys(int x, int y, GameObject type)
+        {
+            x_ = x;
+            y_ = y;
+            type_ = type;
+        }
+        public void SetTileScript(Tile_Script t)
+        {
+            tile_ = t;
+        }
+        public Tile_Script GetTileScript()
+        {
+            return tile_;
+        }
+    };
+    public toys[] m_BoardList;
 
-    // Start is called before the first frame update
     void Start()
     {
-        // 경로에 있는 파일을 가져온다.
-        m_TilePrefab = Resources.Load("Prefabs/Purple") as GameObject;
         CreateTiles();
     }
 
-    /// <summary>
-    /// 프리팹을 이용하여 새로운 타일들을 생성한다.
-    /// </summary>
     private void CreateTiles()
     {
-        for(int y = 0; y < m_Height; ++y)
+        foreach(var s in m_BoardList)
         {
-            for (int x = 0; x < m_Width; ++x)
-            {
-                string key = x.ToString() + "," + y.ToString();
-                Tile_Script tile = Instantiate<Tile_Script>(m_TilePrefab.transform.GetComponent<Tile_Script>());
-
-                tile.transform.SetParent(this.transform);
-                tile.transform.position = new Vector3(x, y, 0f);
-
-                m_TilesDictionary.Add(key, tile);
-            }
+            Tile_Script tile = Instantiate<Tile_Script>(s.type_.transform.GetComponent<Tile_Script>());
+            tile.transform.SetParent(this.transform);
+            tile.transform.position = new Vector3(Param_Script.ZERO_X + (s.x_ * Param_Script.SIZE_X), Param_Script.ZERO_Y + (s.y_ * Param_Script.SIZE_Y), 0f);
+            tile.SetTilePos(s.x_, s.y_);
+            s.SetTileScript(tile);
         }
     }
-    /// <summary>
-    /// Tile을 반환한다.
-    /// </summary>
-    /// <param name="x">x 좌표</param>
-    /// <param name="y">y 좌표</param>
-    /// <returns></returns>
-    public Tile_Script GetTile(int x, int y)
+
+    public void SetTileType(int x, int y, int change_type)
     {
-        string key = x.ToString() + "," + y.ToString();
-        return m_TilesDictionary[key];
+        //Debug.Log("Set tile tpye is " + change_type);
+        toys obj = Array.Find(m_BoardList, p => (p.x_ == x && p.y_ == y));
+        obj.GetTileScript().SetTileID(change_type);
     }
 
-    /// <summary>
-    /// Tile을 반환한다.
-    /// </summary>
-    /// <param name="xy">좌표</param>
-    /// <returns></returns>
-    public Tile_Script GetTile(string xy)
+    public void SetRollingTop(int x, int y)
     {
-        return m_TilesDictionary[xy];
+        toys obj = Array.Find(m_BoardList, p => (p.x_ == x && p.y_ == y));
+        obj.GetTileScript().SetTileID(Param_Script.ROLLING_TOP_ID);
+    }
+
+
+    public int GetTileType(int x, int y)
+    {
+        toys obj = Array.Find(m_BoardList, p => (p.x_ == x && p.y_ == y));
+        if(obj != null)
+        {
+            //Debug.Log("x = " + x + " y = " + y + " id = " + obj.GetTileScript().GetTileID());
+            return obj.GetTileScript().GetTileID();
+        }
+        //Debug.Log("x = " + x + " y = " + y + " GetTileType is Block");
+        return 0;
+    }
+
+    public GameObject GetTileGameObject(int x, int y)
+    {
+        toys obj = Array.Find(m_BoardList, p => (p.x_ == x && p.y_ == y));
+        if (obj != null)
+        {
+            return obj.type_;
+        }
+        //Debug.Log("GetTileScript is Null");
+        return null;
+    }
+
+    public Tile_Script GetTileScript(int x, int y)
+    {
+        toys obj = Array.Find(m_BoardList, p => (p.x_ == x && p.y_ == y));
+        if(obj != null)
+        {
+            return obj.GetTileScript();
+        }
+        //Debug.Log("GetTileScript is Null");
+        return null;
+    }
+
+    public void ChangeTilePos(int pos1_x, int pos1_y, int pos2_x, int pos2_y)
+    {
+        toys obj1 = Array.Find(m_BoardList, p => (p.x_ == pos1_x && p.y_ == pos1_y));
+        toys obj2 = Array.Find(m_BoardList, p => (p.x_ == pos2_x && p.y_ == pos2_y));
+        if (obj1 != null && obj2 != null)
+        {
+            int temp_x = obj1.GetTileScript().m_x;
+            int temp_y = obj1.GetTileScript().m_y;
+
+            obj1.GetTileScript().SetTilePos(obj2.GetTileScript().m_x, obj2.GetTileScript().m_y);
+            obj2.GetTileScript().SetTilePos(temp_x, temp_y);
+
+            obj1.x_ = obj2.x_;
+            obj1.y_ = obj2.y_;
+            obj2.x_ = temp_x;
+            obj2.y_ = temp_y;
+        }
+        //Debug.Log("ChangeTilePos is Null");
     }
 }
